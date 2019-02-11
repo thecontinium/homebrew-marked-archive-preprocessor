@@ -1,5 +1,5 @@
 class MarkedArchivePreprocessor < Formula
-  homepage 'https://github.com/thecontinium/homebrew-marked-archive-preprocessor'
+  homepage '  https://github.com/thecontinium/homebrew-marked-archive-preprocessor'
   url 'https://github.com/thecontinium/homebrew-marked-archive-preprocessor.git'
   version '0.0.1'
 
