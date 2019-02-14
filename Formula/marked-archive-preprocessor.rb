@@ -1,7 +1,7 @@
 class MarkedArchivePreprocessor < Formula
   homepage '  https://github.com/thecontinium/homebrew-marked-archive-preprocessor'
   url 'https://github.com/thecontinium/homebrew-marked-archive-preprocessor.git'
-  version '0.0.5'
+  version '0.0.6'
 
   skip_clean 'bin'
 
