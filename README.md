@@ -1,7 +1,7 @@
 homebrew-marked-archive-preprocessor
 ===================
 
-Simple proprocessor for marked to:
+Simple multimarkdown proprocessor for marked to:
 
 1.  stop the tag becoming a header and make it a red link to search in the archive
 2.  make [[search links]] search in the archive
